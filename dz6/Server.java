@@ -1,4 +1,4 @@
-package ru.geekbrains.java2.dz.dz6.ЮрийНиконоров;
+﻿package ru.geekbrains.java2.dz.dz6.ЮрийНиконоров;
 
 import javax.sound.sampled.Port;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 /**
- * Created by Home-pc on 23.06.2016.
+ * Created by YUROK-vrs on 23.06.2016.
  */
 public class Server {
     public static final int PORT = 8990;
